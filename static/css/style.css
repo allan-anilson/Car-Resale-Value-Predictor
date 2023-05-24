@@ -1,0 +1,17 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-dark{
+	background-color: burlywood;
+}
+
+
+.mt-50{
+    background-color: red;
+	margin-top: 50px;
+}
+#canvas{
+    border: 2px solid black;
+}
